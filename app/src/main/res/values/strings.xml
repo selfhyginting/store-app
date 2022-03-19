@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppsSelfhy</string>
+
+    <string name="emailTv">Email</string>
+    <string name="passwordTv">Password</string>
+    <string name="emailHint">Enter your email</string>
+    <string name="passHint">Enter your password</string>
+    <string name="imageDesc">shopee</string>
+    <string name="loginTv">Login</string>
+
+
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="setting">Log out</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="namaForum"></string>
+    <string name="pesanForum"></string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

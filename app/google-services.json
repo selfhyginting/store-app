@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19425989609",
+    "firebase_url": "https://appselfhy-default-rtdb.firebaseio.com",
+    "project_id": "appselfhy",
+    "storage_bucket": "appselfhy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19425989609:android:244fa1e12b93b64d997178",
+        "android_client_info": {
+          "package_name": "com.example.appsselfhy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19425989609-hhgpvs7g6rbf770s33v0jj4qab5qp13g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAydJWeab9NeGUTDn4I3o0n7hRAm6w4Xqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19425989609-hhgpvs7g6rbf770s33v0jj4qab5qp13g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
